@@ -1,0 +1,26 @@
+## ⚙️ Installation
+
+```bash
+pip install pillow stepic
+
+▶️ How to Run
+python main.py
+  
+🧠 How It Works
+Converts message into binary
+
+Embeds binary data into image pixels using LSB
+
+Extracts binary data and reconstructs message
+
+📸 Supported Formats
+PNG
+BMP
+
+📌 Future Enhancements
+Drag-and-drop support
+
+File hiding (not just text)
+
+Strong encryption
+Audio/video steganography
